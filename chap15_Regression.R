@@ -417,3 +417,4 @@ cor(model_result2$net.result, testing_nor$Species2)
 
 
 
+
